@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloApp</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="enter_a_password">Enter a Password</string>
+    <string name="enter_a_name">Enter a Name</string>
+</resources>
